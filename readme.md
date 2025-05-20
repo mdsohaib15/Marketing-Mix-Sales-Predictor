@@ -1,8 +1,7 @@
 
 ---
 
-## 📊 Marketing Mix Sales Predictor
-
+## 📊 Marketing Mix Sales Predictor:
 ### 🔍 Overview
 
 This project uses a **Linear Regression model** to analyze how different advertising channels — **TV, Radio, and Newspaper** — impact **product sales**. The goal is to provide insights into the effectiveness of media spend and to predict sales based on advertising budgets.
